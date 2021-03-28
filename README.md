@@ -34,10 +34,10 @@ THEN the deposits or expenses added while they were offline are added to their t
 ```
 
 ## Screenschots
-
+[![Budget Tracker](./images/budget-tracker.png)](https://matthewdamron-budget-tracker.herokuapp.com/)
 
 ## Installation
-
+No installation required live website [Budget Tracker](https://matthewdamron-budget-tracker.herokuapp.com/)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/matthewdamron/budget-tracker)<br />
@@ -45,6 +45,7 @@ This application is covered by the MIT license.
 
 ## Language
 <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
